@@ -2,7 +2,7 @@
 
 Este proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.<br />
 <br />
-Para comenzar, ejecute cpm install
+Para comenzar, ejecute npm install
 
 ## Development server
 
